@@ -26,4 +26,5 @@ superform/dist/
 superform/superform.egg-info/dependency_links.txt
 superform/superform.egg-info/
 .flooignore
-
+/superform/rootCA.pem
+/superform/rootCA.key
